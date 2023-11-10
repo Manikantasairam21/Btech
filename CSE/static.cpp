@@ -3,12 +3,12 @@ using namespace std;
 class stc
 {
 	static int c;
-	int count;
+	int num;
 	public:
 		void code()
 		{
-			count=++c;
-			cout<<"count:"<<count<<endl;	
+			num=++c;
+			cout<<"count:"<<num<<endl;	
 		}
 		static void show()
 		{
