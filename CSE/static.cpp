@@ -26,10 +26,7 @@ int main()
 	t.code();
 	stc::show();
 	u.code();
-	cout<<"FRIENDSHIP";
 	stc::show();
 	v.code();
 	return 0;
 }
-cout<<"FRIENDSHIP";
-CODE COMPLETE
