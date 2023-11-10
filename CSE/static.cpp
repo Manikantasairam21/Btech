@@ -8,7 +8,7 @@ class stc
 		void code()
 		{
 			count=++c;
-			cout<<"count:"<<count<<endl;	
+			cout<<"number:"<<count<<endl;	
 		}
 		static void show()
 		{
