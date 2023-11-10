@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-     cout<<"c++ program";
+     cout<<"c++ program language";
      return 0;
 }
